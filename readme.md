@@ -6,7 +6,7 @@
 ---
 Later on Deploying the website using github,netlify
 ---
->click for [website link]()
+>click for [website link](https://herocontainer.netlify.app/)
 ---
 While designing such static websites you get to know flexbox in css in detail and contents of flexbox like:
 - justify-content
